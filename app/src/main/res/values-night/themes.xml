@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.cars" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orange_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">#FF3D2529</item>
+        <item name="colorOnPrimaryContainer">@color/orange_primary_soft</item>
+        <item name="android:statusBarColor">@color/orange_primary_dark</item>
+        <item name="android:navigationBarColor">#FF121212</item>
+        <item name="android:windowBackground">#FF121212</item>
+    </style>
+</resources>

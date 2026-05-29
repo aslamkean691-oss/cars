@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_padding_top_extra">14dp</dimen>
+    <dimen name="car_grid_image_height">156dp</dimen>
+    <dimen name="car_grid_card_radius">16dp</dimen>
+</resources>

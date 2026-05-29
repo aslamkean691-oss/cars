@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- سيارة 3/4 أمامية (~2.2:1) داخل المنطقة الآمنة -->
+    <item
+        android:width="64dp"
+        android:height="29dp"
+        android:drawable="@drawable/ic_autosocket_logo"
+        android:gravity="center" />
+</layer-list>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_customer_cars"
+        android:icon="@drawable/outline_accessible_menu_24"
+        android:title="@string/nav_customer_cars" />
+    <item
+        android:id="@+id/nav_customer_favorites"
+        android:icon="@drawable/ic_nav_favorites_heart_24"
+        android:title="@string/nav_customer_favorites" />
+    <item
+        android:id="@+id/nav_customer_business"
+        android:icon="@drawable/baseline_settings_suggest_24"
+        android:title="@string/nav_customer_business" />
+</menu>

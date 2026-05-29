@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- أساسي: أحمر خمري — الأسماء التاريخية orange_* ما زالت تُستخدم في الـ layouts -->
+    <color name="orange_primary">#FF7A1F2D</color>
+    <color name="orange_primary_dark">#FF4F141E</color>
+    <color name="orange_primary_soft">#FFFDF2F4</color>
+    
+    <!-- ألوان النصوص -->
+    <color name="text_primary">#FF212121</color>          <!-- نص أساسي -->
+    <color name="text_secondary">#FF757575</color>       <!-- نص ثانوي -->
+    
+    <!-- ألوان الملابس -->
+    <color name="price_color">#FF2196F3</color>         <!-- لون السعر (أزرق) -->
+    <color name="category_economical">#FF4CAF50</color>   <!-- اقتصادي (أخضر) -->
+    <color name="category_average">#FF2196F3</color>     <!-- متوسط (أزرق) -->
+    <color name="category_high">#FFFF9800</color>        <!-- مرتفع (برتقالي) -->
+    <color name="category_luxury">#FFF44336</color>      <!-- فاخر (أحمر) -->
+    
+    <!-- ألوان إضافية -->
+    <color name="success">#FF4CAF50</color>              <!-- نجاح -->
+    <color name="error">#FFF44336</color>                <!-- خطأ -->
+    <color name="warning">#FFFF9800</color>              <!-- تحذير -->
+    <color name="info">#FF2196F3</color>                  <!-- معلومات -->
+    
+    <!-- خلفية — أبيض ناصع مع لمسات خمري فاتح -->
+    <color name="background">#FFFFFFFF</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="divider">#FFEEEEEE</color>               <!-- فاصل -->
+    <!-- טפסים: ניטרלי מול רקע לבן -->
+    <color name="form_field_stroke">#FFB0BEC5</color>
+    <color name="form_card_stroke">#1A90A4AE</color>
+    <color name="image_slot_neutral">#FFEDF0F3</color>
+    <color name="material_container_neutral">#FFECEFF1</color>
+    <color name="switch_track_light">#FFB0BEC5</color>
+    
+</resources>

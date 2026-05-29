@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_admin_cars"
+        android:icon="@drawable/outline_accessible_menu_24"
+        android:title="@string/nav_admin_cars" />
+    <item
+        android:id="@+id/nav_admin_sold"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/nav_admin_sold" />
+    <item
+        android:id="@+id/nav_admin_profile"
+        android:icon="@drawable/outline_account_box_24"
+        android:title="@string/nav_admin_profile" />
+</menu>
